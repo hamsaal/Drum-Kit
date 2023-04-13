@@ -21,31 +21,31 @@ img{
 }
 
 .w {
-  background-image: url("D:/Web Development boot camp/Web Developement projects/Drum Kit Starting Files/images/crash.png")
+  background-image: url("./images/crash.png")
 }
 
 .a {
-  background-image: url("D:/Web Development boot camp/Web Developement projects/Drum Kit Starting Files/images/kick.png")
+  background-image: url("./images/kick.png")
 }
 
 .s {
-background-image: url("D:/Web Development boot camp/Web Developement projects/Drum Kit Starting Files/images/snare.png")
+background-image: url("./images/snare.png")
 }
 
 .d {
-background-image: url("D:/Web Development boot camp/Web Developement projects/Drum Kit Starting Files/images/tom1.png")
+background-image: url("./images/tom1.png")
 }
 
 .h {
-background-image: url("D:/Web Development boot camp/Web Developement projects/Drum Kit Starting Files/images/tom2.png")
+background-image: url("./images/tom2.png")
 }
 
 .j{
-background-image: url("D:/Web Development boot camp/Web Developement projects/Drum Kit Starting Files/images/tom3.png")
+background-image: url("./images/tom3.png")
 }
 
 .k {
-background-image: url("D:/Web Development boot camp/Web Developement projects/Drum Kit Starting Files/images/tom4.png")
+background-image: url("./images/tom4.png")
 }
 
 .set {
